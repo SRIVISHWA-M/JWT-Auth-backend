@@ -1,0 +1,10 @@
+ECHO is on.
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly set line endings for common file types
+*.js     text eol=lf
+*.json   text eol=lf
+*.html   text eol=lf
+*.css    text eol=lf
+*.md     text eol=lf
